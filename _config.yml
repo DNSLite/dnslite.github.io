@@ -1,0 +1,10 @@
+# Site settings
+title: DNSLite
+email: xudejian2008@gmail.com
+description: "This is the DNSLite's repo"
+baseurl: ""
+url: "http://yourdomain.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
